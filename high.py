@@ -8,8 +8,8 @@ import time
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-client_id = "8e5a55baee364ceeb746d9ceb56963f2"
-client_secret = "83b131b4f96c4f418d107372a09f71e7"
+client_id = ""
+client_secret = ""
 
 
 def get_token():
