@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for your GitHub README file that you can expand upon:
-
----
 
 # Music Recommender System
 
